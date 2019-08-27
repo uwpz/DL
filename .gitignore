@@ -7,3 +7,5 @@ data/
 *.h5
 *.RDATA
 BoxCore/
+.Rproj.user/
+.Rhistory
