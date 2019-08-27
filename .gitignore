@@ -1,0 +1,9 @@
+.idea/
+*.pkl
+venv/
+*.lnk
+code/__pycache__
+data/
+*.h5
+*.RDATA
+BoxCore/
